@@ -47,7 +47,8 @@ model.compile(optimizer=tf.keras.optimizers.SGD(), loss=tf.keras.losses.MeanSqua
 model.fit(xs, ys, epochs=500)
 cloud_logger.info(str(model.predict(np.array([10.0]))))
 ```
-### Press Ctrl+s or go toApplication Menu > File > Save, to save the changes.
+### Press Ctrl+s or go to, Application Menu > File > Save, to save the changes.
+### In the prompt, type model.py for name and press OK.
 
 ## Enter the following command in the terminal:
 ```
