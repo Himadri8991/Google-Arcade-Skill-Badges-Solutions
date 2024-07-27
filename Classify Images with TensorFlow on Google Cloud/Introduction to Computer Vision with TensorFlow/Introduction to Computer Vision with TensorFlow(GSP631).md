@@ -36,6 +36,8 @@ wget https://raw.githubusercontent.com/Himadri8991/Google-Arcade-Skill-Badges-So
 
 wget https://raw.githubusercontent.com/Himadri8991/Google-Arcade-Skill-Badges-Solutions/main/Classify%20Images%20with%20TensorFlow%20on%20Google%20Cloud/Introduction%20to%20Computer%20Vision%20with%20TensorFlow/updated_model_3.py
 
+wget https://raw.githubusercontent.com/Himadri8991/Google-Arcade-Skill-Badges-Solutions/main/Classify%20Images%20with%20TensorFlow%20on%20Google%20Cloud/Introduction%20to%20Computer%20Vision%20with%20TensorFlow/updated_model.py
+
 python model.py
 
 python callback_model.py
