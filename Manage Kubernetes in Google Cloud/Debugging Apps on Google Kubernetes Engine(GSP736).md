@@ -94,7 +94,7 @@ gcloud alpha monitoring policies create --policy-from-file="awesome.json"
 
 echo "${BG_RED}${BOLD}Congratulations For Completing The Lab !!!${RESET}"
 
-echo "${RED}${BOLD}With Regards Himadri${RESET}"
+echo "${BG_RED}${BOLD}With Regards Himadri${RESET}"
 
 #-----------------------------------------------------end----------------------------------------------------------#
 
