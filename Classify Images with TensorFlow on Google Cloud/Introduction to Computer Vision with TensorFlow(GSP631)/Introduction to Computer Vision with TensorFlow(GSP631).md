@@ -26,17 +26,15 @@ pip3 install --upgrade pip
 pip install --upgrade tensorflow
 
 
-wget https://raw.githubusercontent.com/Himadri8991/Google-Arcade-Skill-Badges-Solutions/main/Classify%20Images%20with%20TensorFlow%20on%20Google%20Cloud/Introduction%20to%20Computer%20Vision%20with%20TensorFlow(GSP631)/model.py
+wget  https://raw.githubusercontent.com/quiccklabs/Labs_solutions/master/Introduction%20to%20Computer%20Vision%20with%20TensorFlow%202024/model.py
 
-wget https://raw.githubusercontent.com/Himadri8991/Google-Arcade-Skill-Badges-Solutions/main/Classify%20Images%20with%20TensorFlow%20on%20Google%20Cloud/Introduction%20to%20Computer%20Vision%20with%20TensorFlow(GSP631)/callback_model.py
+wget https://raw.githubusercontent.com/quiccklabs/Labs_solutions/master/Introduction%20to%20Computer%20Vision%20with%20TensorFlow%202024/callback_model.py
 
-wget https://raw.githubusercontent.com/Himadri8991/Google-Arcade-Skill-Badges-Solutions/main/Classify%20Images%20with%20TensorFlow%20on%20Google%20Cloud/Introduction%20to%20Computer%20Vision%20with%20TensorFlow(GSP631)/updated_model_1.py
+wget https://raw.githubusercontent.com/quiccklabs/Labs_solutions/master/Introduction%20to%20Computer%20Vision%20with%20TensorFlow%202024/updated_model_1.py
 
-wget https://raw.githubusercontent.com/Himadri8991/Google-Arcade-Skill-Badges-Solutions/main/Classify%20Images%20with%20TensorFlow%20on%20Google%20Cloud/Introduction%20to%20Computer%20Vision%20with%20TensorFlow(GSP631)/updated_model_2.py
+wget https://raw.githubusercontent.com/quiccklabs/Labs_solutions/master/Introduction%20to%20Computer%20Vision%20with%20TensorFlow%202024/updated_model_2.py
 
-wget https://raw.githubusercontent.com/Himadri8991/Google-Arcade-Skill-Badges-Solutions/main/Classify%20Images%20with%20TensorFlow%20on%20Google%20Cloud/Introduction%20to%20Computer%20Vision%20with%20TensorFlow(GSP631)/updated_model_3.py
-
-wget https://raw.githubusercontent.com/Himadri8991/Google-Arcade-Skill-Badges-Solutions/main/Classify%20Images%20with%20TensorFlow%20on%20Google%20Cloud/Introduction%20to%20Computer%20Vision%20with%20TensorFlow(GSP631)/update_model_4.py
+wget https://raw.githubusercontent.com/quiccklabs/Labs_solutions/master/Introduction%20to%20Computer%20Vision%20with%20TensorFlow%202024/updated_model_3.py
 
 python model.py
 
