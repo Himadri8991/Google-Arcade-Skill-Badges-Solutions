@@ -1,7 +1,7 @@
 # Debugging Apps on Google Kubernetes Engine || [GSP736](https://www.cloudskillsboost.google/focuses/13065?parent=catalog) ||
 
 ### Run the following Commands in CloudShell
-###From "Set the zone" you can find your Zone,
+###From "Setup and requirements" you can find your Zone,
 ```
 export ZONE=
 ```
