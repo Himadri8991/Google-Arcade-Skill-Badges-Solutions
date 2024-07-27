@@ -1,6 +1,6 @@
 # Welcome to Google-Arcade-Skill-Badges-Solutions!
 
-## Star This Repository [here](https://github.com/Himadri8991/Google-Arcade-Skill-Badges-Solutions)
+## Star This [Repository](https://github.com/Himadri8991/Google-Arcade-Skill-Badges-Solutions)
 
 ### This repository provides comprehensive solutions for Google Cloud Arcade Skill Boost badges. Our goal is to help you master various cloud computing skills, from infrastructure to data analytics, and enhance your career prospects.
 
@@ -21,5 +21,5 @@
 ## Stay Updated:
 ### Watch this repository for new solutions, updates, and resources. Happy learning!
 
-# Follow Me [here](www.linkedin.com/in/himadri-das-27487324a)
-## Follow My GitHub Profile [here](https://github.com/Himadri8991)
+# Follow [ME](www.linkedin.com/in/himadri-das-27487324a)
+## Follow My [GitHub Profile](https://github.com/Himadri8991)
