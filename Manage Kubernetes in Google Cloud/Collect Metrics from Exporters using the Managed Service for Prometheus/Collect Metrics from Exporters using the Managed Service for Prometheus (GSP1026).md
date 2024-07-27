@@ -85,8 +85,9 @@ echo "${BG_RED}${BOLD}With Regards Himadri${RESET}"
 #-----------------------------------------------------end----------------------------------------------------------#
 
 ```
+### It Will Take Upto 10 Min...
 
-### Congratulations 🎉 for completing the Challenge Lab !
+## Congratulations 🎉 for completing the Challenge Lab !
 
 ##### *You Have Successfully Demonstrated Your Skills And Determination.*
 
