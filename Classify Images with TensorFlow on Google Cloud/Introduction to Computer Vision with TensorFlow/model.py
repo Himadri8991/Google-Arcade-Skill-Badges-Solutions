@@ -43,7 +43,6 @@ model.compile(optimizer = tf.keras.optimizers.Adam(),
               loss = tf.keras.losses.SparseCategoricalCrossentropy(),
               metrics=[tf.keras.metrics.SparseCategoricalAccuracy()])
 model.fit(ds_train, epochs=5)
-cloud_logger.info(model.evaluate(ds_test))
 
 # Save the entire model as a SavedModel.
 model.save('saved_model')
