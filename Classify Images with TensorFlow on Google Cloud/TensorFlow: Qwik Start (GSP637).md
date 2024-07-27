@@ -1,8 +1,8 @@
 # TensorFlow: Qwik Start || [GSP637](https://www.cloudskillsboost.google/course_templates/646/labs/476323) ||
 
-## Copy the IDE URL from the lab panel.
+## *Copy the IDE URL from the lab panel.
 
-## Paste it into a new browser window.
+## **Paste it into a new browser window.
 
 ### Navigation Menu > Terminal > New Terminal
 
