@@ -1,0 +1,15 @@
+First You Have To ## Activate Cloud Shell ##
+//from "Task 1"  you can find your Zone,
+//Just Run the whole code
+
+
+
+
+export ZONE=
+
+gcloud compute instances create gcelab2 --machine-type e2-medium --zone $ZONE
+
+
+
+
+## Congratulations! You successfully completed the lab. ##
