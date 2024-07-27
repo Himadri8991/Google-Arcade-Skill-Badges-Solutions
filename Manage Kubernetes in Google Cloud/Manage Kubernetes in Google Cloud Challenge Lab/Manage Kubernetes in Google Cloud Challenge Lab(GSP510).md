@@ -8,8 +8,13 @@
 ### From "Task 6. Containerize your code and deploy it onto the cluster" you can find your SERVICE_NAME,
 
 ## One task you have to do manually
-### Search > Logging > Log-based Metrics > Create metric > Details > Log-based metric name "pod-image-errors"  >  Filter selection > Build filter >  "resource.type="k8s_pod"
-severity=WARNING"
+### Search > Logging > Log-based Metrics > Create metric > Details > Log-based metric name 
+```pod-image-errors```
+### >  Filter selection > Build filter >  
+```
+resource.type="k8s_pod"
+severity=WARNING
+```
 
 ```
 export REPO_NAME=
