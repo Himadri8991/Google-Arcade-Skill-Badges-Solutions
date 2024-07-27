@@ -11,17 +11,12 @@
 ```
 
 pip install google-cloud-logging
-
 pip install ---upgrade protobuf
-
 pip install --upgrade tensorflow
 
 python --version
-
 python -c "import tensorflow;print(tensorflow.__version__)"
 
-
-cat > model.py <<'EOF'
 import logging
 import google.cloud.logging as cloud_logging
 from google.cloud.logging.handlers import CloudLoggingHandler
@@ -43,8 +38,8 @@ model = tf.keras.Sequential([tf.keras.layers.Dense(units=1, input_shape=[1])])
 model.compile(optimizer=tf.keras.optimizers.SGD(), loss=tf.keras.losses.MeanSquaredError())
 
 model.fit(xs, ys, epochs=500)
-cloud_logger.info(str(model.predict([10.0])))
-EOF
+
+cloud_logger.info(str(model.predict(np.array([10.0]))))
 
 python model.py
 
