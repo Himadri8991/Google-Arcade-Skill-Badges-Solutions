@@ -48,6 +48,7 @@ python updated_model_2.py
 
 python updated_model_3.py
 
+python updated_model.py
 ```
 
 ## Congratulations 🎉 for completing the Challenge Lab !
