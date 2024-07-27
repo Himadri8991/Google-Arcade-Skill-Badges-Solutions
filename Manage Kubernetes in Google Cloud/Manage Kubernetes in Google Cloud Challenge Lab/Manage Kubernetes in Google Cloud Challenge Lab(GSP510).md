@@ -1,12 +1,5 @@
 # Manage Kubernetes in Google Cloud: Challenge Lab || [GSP510](https://www.cloudskillsboost.google/focuses/58179?parent=catalog) ||
 
-### Run the following Commands in CloudShell
-
-### From "Challenge scenario > Your challenge" you can find your REPO_NAME,
-### From "Task 1. Create a GKE cluster" you can find your CLUSTER_NAME & ZONE,
-### From "Task 2. Enable Managed Prometheus on the GKE cluster" you can find your NAMESPACE & endpoints.interval,
-### From "Task 6. Containerize your code and deploy it onto the cluster" you can find your SERVICE_NAME,
-
 ## One task you have to do manually
 ### Search > Logging > Log-based Metrics > Create metric > Details > Log-based metric name 
 ```pod-image-errors```
@@ -16,6 +9,12 @@ resource.type="k8s_pod"
 severity=WARNING
 ```
 
+### Run the following Commands in CloudShell
+
+### From "Challenge scenario > Your challenge" you can find your REPO_NAME,
+### From "Task 1. Create a GKE cluster" you can find your CLUSTER_NAME & ZONE,
+### From "Task 2. Enable Managed Prometheus on the GKE cluster" you can find your NAMESPACE & endpoints.interval,
+### From "Task 6. Containerize your code and deploy it onto the cluster" you can find your SERVICE_NAME,
 ```
 export REPO_NAME=
 export CLUSTER_NAME=
