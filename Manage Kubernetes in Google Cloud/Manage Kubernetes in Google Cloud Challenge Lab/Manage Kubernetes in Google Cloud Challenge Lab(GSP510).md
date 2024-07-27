@@ -7,6 +7,10 @@
 ### From "Task 2. Enable Managed Prometheus on the GKE cluster" you can find your NAMESPACE & endpoints.interval,
 ### From "Task 6. Containerize your code and deploy it onto the cluster" you can find your SERVICE_NAME,
 
+## One task you have to do manually
+### Search > Logging > Log-based Metrics > Create metric > Details > Log-based metric name "pod-image-errors"  >  Filter selection > Build filter >  "resource.type="k8s_pod"
+severity=WARNING"
+
 ```
 export REPO_NAME=
 export CLUSTER_NAME=
@@ -221,7 +225,7 @@ cd ..
 
 kubectl -n $NAMESPACE apply -f pod-monitoring.yaml
 
-cat > awesome.json <<EOF_END
+cat > awesome.json <<EOF_CP
 {
   "displayName": "Pod Error Alert",
   "userLabels": {},
@@ -253,9 +257,8 @@ cat > awesome.json <<EOF_END
   "enabled": true,
   "notificationChannels": []
 }
-EOF_END
+EOF_CP
 
-sleep 600
 
 gcloud alpha monitoring policies create --policy-from-file="awesome.json"
 
