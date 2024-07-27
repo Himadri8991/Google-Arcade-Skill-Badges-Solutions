@@ -9,7 +9,7 @@ resource.type="k8s_pod"
 severity=WARNING
 ```
 
-### Run the following Commands in CloudShell
+## Run the following Commands in CloudShell
 
 ### From "Challenge scenario > Your challenge" you can find your REPO_NAME,
 ### From "Task 1. Create a GKE cluster" you can find your CLUSTER_NAME & ZONE,
