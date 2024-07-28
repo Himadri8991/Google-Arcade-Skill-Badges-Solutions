@@ -56,12 +56,21 @@ echo "${RED}${BOLD}With Regards Himadri${RESET}"
 
 #-----------------------------------------------------end----------------------------------------------------------#
 ```
+## Next Step..
+* Go to `User-managed Notebooks` from [here](https://console.cloud.google.com/vertex-ai/workbench/user-managed?)
 
-## *Search* Vertex AI > Workbench > User-managed-notebooks 
-### Create a Notebook instance. Select TensorFlow Enterprise 2.11
+## Open Terminal
+### Run the following Commands in Terminal
+```
+git clone https://github.com/GoogleCloudPlatform/training-data-analyst
+```
+## training-data-analyst > self-paced-labs > learning-tensorflow > cnn_challenge_lab 
+### Delete the file ``` cnn_challenge_lab.ipynb ```
 
-### *In your Vertex Notebook, navigate to the following directory:* :-  
-## training-data-analyst > self-paced-labs > learning-tensorflow > convolutional-neural-networks > CLS_Vertex_AI_CNN_fmnist.ipynb.
+### Download `Jupyter` file from [here](https://github.com/Himadri8991/Google-Arcade-Skill-Badges-Solutions/blob/ba0387b88f06cdbacdb5e578df5ef339afd70197/Classify%20Images%20with%20TensorFlow%20on%20Google%20Cloud/Classify%20Images%20with%20TensorFlow%20on%20Google%20Cloud%3A%20Challenge%20Lab/cnn_challenge_lab.ipynb)
+
+
+## Upload the file ``` cnn_challenge_lab.ipynb ```
 * Run > Run all cell
 
 ### If Kernel becomes stopped, *You have to Run Again* by:- 
