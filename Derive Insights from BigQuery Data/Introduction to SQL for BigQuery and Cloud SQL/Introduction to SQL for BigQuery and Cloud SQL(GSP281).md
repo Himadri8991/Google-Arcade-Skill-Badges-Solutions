@@ -2,7 +2,7 @@
 
 ### Run the following Commands in CloudShell
 
-### From "Task 5. Create a Cloud SQL instance" you can find your Zone,
+### From "Task 5. Create a Cloud SQL instance" you can find your REGION,
 
 ```
 export REGION=
