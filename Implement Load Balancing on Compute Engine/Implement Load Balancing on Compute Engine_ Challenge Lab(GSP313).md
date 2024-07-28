@@ -4,7 +4,7 @@
 
 ### Run the following Commands in CloudShell
 
-###From "Challenge scenario" you can find your Zone,
+### From "Challenge scenario" you can find your Zone,
 
 ```
 export INSTANCE=
@@ -12,7 +12,7 @@ export FIREWALL=
 export ZONE=
 ```
 
-##Just Run the whole code
+## Just Run the whole code
 
 ```
 #!/bin/bash
