@@ -72,7 +72,7 @@ echo "${RED}${BOLD}With Regards Himadri${RESET}"
 #-----------------------------------------------------end----------------------------------------------------------#
 
 ```
-
+* ```Note``` Please Check the *First 5* Check Boxes before pressing the ```Y``` 
 
 ### Congratulations 🎉 for completing the Lab !
 
