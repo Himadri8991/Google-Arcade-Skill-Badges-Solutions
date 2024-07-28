@@ -2,7 +2,7 @@
 
 ## Click ```BigQuery``` from navigation menu > Untitled query
 
-#### Run the following Queries in BigQuery Editor
+#### Run the following Queries ONE BY ONE in BigQuery Editor
 ### Task 1. Total confirmed cases
 
 * ```Note``` Change ```YYYY-MM-DD``` from *Task 1. Total confirmed cases*
