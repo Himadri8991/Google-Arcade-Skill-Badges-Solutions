@@ -14,6 +14,7 @@ WHERE date='YYYY-MM-DD'
 ```
 ### Task 2. Worst affected areas
 
+* ```Note``` Change ```YYYY-MM-DD``` & ```Counts``` from *Task 2. Worst affected areas*
 ```
 WITH deaths_by_states AS (
     SELECT subregion1_name as state, sum(cumulative_deceased) as death_count
