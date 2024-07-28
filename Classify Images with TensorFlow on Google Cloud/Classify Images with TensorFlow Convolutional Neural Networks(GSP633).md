@@ -17,7 +17,8 @@ gcloud services enable \
 ## training-data-analyst > self-paced-labs > learning-tensorflow > convolutional-neural-networks > CLS_Vertex_AI_CNN_fmnist.ipynb.
 * Run > Run all cell
 
-
+### If Kernel becomes stopped, *You have to Run Again* by:- 
+* Run > Run Selected cell and all Below
 
 
 
