@@ -5,7 +5,8 @@
 #### Run the following Queries in BigQuery Editor
 ### Task 1. Total confirmed cases
 
-* Change ```YYYY-MM-DD``` from *Task 1. Total confirmed cases*
+* ```Note``` Change ```YYYY-MM-DD``` from *Task 1. Total confirmed cases*
+  
 ```
 SELECT sum(cumulative_confirmed) as total_cases_worldwide
 FROM `bigquery-public-data.covid19_open_data.covid19_open_data`
