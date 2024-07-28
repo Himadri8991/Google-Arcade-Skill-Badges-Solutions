@@ -6,7 +6,7 @@
 
 ### * Open ```Looker Studio``` in a incognito window.
 
-* Click ```Create``` > Country ```India``` > Company ```HcloudP``` > ```Continue``` > ```No``` > ```No``` > ```No``` > ```Continue```
+* Click ```Create``` > Report > Country ```India``` > Company ```HcloudP``` > ```Continue``` > ```No``` > ```No``` > ```No``` > ```Continue```
   
 * In the Google Connectors section, select ```BigQuery```
   
