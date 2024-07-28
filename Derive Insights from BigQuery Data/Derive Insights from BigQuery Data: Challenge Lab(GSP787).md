@@ -14,7 +14,7 @@ WHERE date='YYYY-MM-DD'
 ```
 ### Task 2. Worst affected areas
 
-* ```Note``` Change ```YYYY-MM-DD``` & ```Counts``` from *Task 2. Worst affected areas*
+* ```Note``` Change ```YYYY-MM-DD``` & ```COUNTS``` from *Task 2. Worst affected areas*
 ```
 WITH deaths_by_states AS (
     SELECT subregion1_name as state, sum(cumulative_deceased) as death_count
@@ -28,6 +28,7 @@ WHERE death_count > COUNTS
 ```
 ### Task 3. Identify hotspots
 
+* ```Note``` Change ```YYYY-MM-DD``` & ```CASES``` from *Task 3. Identify hotspots*
 ```
 SELECT * FROM (
     SELECT subregion1_name as state, sum(cumulative_confirmed) as total_confirmed_cases
@@ -40,7 +41,7 @@ WHERE total_confirmed_cases > CASES
 ```
 
 ### Task 4. Fatality ratio
-
+* ```Note``` Change ```YYYY-MM-DD``` from *Task 4. Fatality ratio (Day 01 - 30/31)*
 ```
 SELECT sum(cumulative_confirmed) as total_confirmed_cases,
        sum(cumulative_deceased) as total_deaths,
@@ -50,6 +51,7 @@ WHERE country_name="Italy" AND date BETWEEN 'YYYY-MM-DD' and 'YYYY-MM-DD'
 ```
 
 ### Task 5. Identifying specific day
+* ```Note``` Change ```DEATH``` from *Task 5. Identifying specific day*
 
 ```
 SELECT date
@@ -59,7 +61,7 @@ ORDER BY date asc
 LIMIT 1
 ```
 ### Task 6. Finding days with zero net new cases
-
+* ```Note``` Change ```YYYY-MM-DD``` & ```COUNTS``` from *Task 6. Finding days with zero net new cases*
 ```
 WITH india_cases_by_date AS (
     SELECT date, SUM(cumulative_confirmed) AS cases
@@ -77,7 +79,7 @@ WHERE net_new_cases=0
 ```
 
 ### Task 7. Doubling rate
-
+* ```Note``` Change ```%%``` from *Task 7. Doubling rate*
 ```
 WITH us_cases_by_date AS (
     SELECT date, SUM(cumulative_confirmed) AS cases
@@ -97,7 +99,7 @@ WHERE percentage_increase > %%
 ```
 
 ### Task 8. Recovery rate
-
+* ```Note``` Change ```NUM``` from *Task 8. Recovery rate*
 ```
 WITH cases_by_country AS (
 
@@ -146,7 +148,7 @@ LIMIT NUM
 ```
 
 ### Task 9. CDGR - Cumulative daily growth rate
-
+* ```Note``` Change ```YYYY-MM-DD``` from *Task 1. Total confirmed cases*
 ```
 WITH france_cases AS (
     SELECT date, SUM(cumulative_confirmed) AS total_cases
@@ -165,10 +167,25 @@ SELECT first_day_cases, last_day_cases, days_diff,
 FROM summary
 ```
 
-### Task 10. Create a Looker Studio report
+## Task 10. Create a Looker Studio report
 
 * Go to [Looker Studio](https://datastudio.google.com/)
 
+  ### * Open ```Looker Studio``` in a incognito window.
+
+* Click ```Create``` > Data Source > Country ```India``` > Company ```HcloudP``` > ```Continue``` > ```No``` > ```No``` > ```No``` > ```Continue```
+  
+* In the Google Connectors section, select ```BigQuery```
+  
+* click ```Authorize```
+  
+* Select ```your Username```
+
+* Click on ```Custom Query``` > ```your Project ID```
+
+  ## Next Step
+
+* ```Note``` Change ```YYYY-MM-DD``` from *Task 10. Create a Looker Studio report*
 ```
 SELECT date, SUM(cumulative_confirmed) AS country_cases,
        SUM(cumulative_deceased) AS country_deaths
@@ -177,6 +194,7 @@ WHERE date BETWEEN 'YYYY-MM-DD' AND 'YYYY-MMM-DD'
   AND country_name ="United States of America"
 GROUP BY date
 ```
+## Click ```Connect```
 
 
 ### Congratulations 🎉 for completing the Lab !
