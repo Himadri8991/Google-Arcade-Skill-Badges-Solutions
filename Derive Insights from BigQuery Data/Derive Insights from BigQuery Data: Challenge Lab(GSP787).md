@@ -1,9 +1,11 @@
 # Derive Insights from BigQuery Data: Challenge Lab || [GSP787](https://www.cloudskillsboost.google/focuses/11988?parent=catalog) ||
 
-#### Run the following Queries in BigQuery Editor
+## Click ```BigQuery``` from navigation menu > Untitled query
 
+#### Run the following Queries in BigQuery Editor
 ### Task 1. Total confirmed cases
 
+* Change ```YYYY-MM-DD``` from *Task 1. Total confirmed cases*
 ```
 SELECT sum(cumulative_confirmed) as total_cases_worldwide
 FROM `bigquery-public-data.covid19_open_data.covid19_open_data`
