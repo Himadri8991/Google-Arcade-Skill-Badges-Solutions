@@ -1,6 +1,9 @@
 # Introduction to SQL for BigQuery and Cloud SQL || [GSP281](https://www.cloudskillsboost.google/course_templates/623/labs/489280) ||
 
 ### Run the following Commands in CloudShell
+
+### From "Task 5. Create a Cloud SQL instance" you can find your Zone,
+
 ```
 export REGION=
 ```
