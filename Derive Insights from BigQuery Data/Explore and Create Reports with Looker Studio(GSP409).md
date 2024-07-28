@@ -2,9 +2,9 @@
 
 
 
-### * From *Task 1. Launch Looker Studio and create a blank report*
+## From *Task 1. Launch Looker Studio and create a blank report*
 
-### ** Open ```Looker Studio``` in a incognito window.
+### * Open ```Looker Studio``` in a incognito window.
 
 * Click ```Create``` > Country ```India``` > Company ```HcloudP``` > ```Continue``` > ```No``` > ```No``` > ```No``` > ```Continue```
   
