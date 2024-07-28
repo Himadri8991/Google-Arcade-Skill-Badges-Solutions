@@ -4,9 +4,10 @@
 
 
 
-### *Search* Vertex AI > Workbench > User-managed-notebooks > OPEN JUPYTERLAB
-### *In your Vertex Notebook, navigate to the following directory:* :-   training-data-analyst > self-paced-labs > learning-tensorflow > introduction_to_convolutions > CLS_Vertex_AI_Intro_to_CNN.ipynb
-### Run > Run all cell
+* *Search* Vertex AI > Workbench > User-managed-notebooks > OPEN JUPYTERLAB
+### *In your Vertex Notebook, navigate to the following directory:* :-  
+* training-data-analyst > self-paced-labs > learning-tensorflow > introduction_to_convolutions > CLS_Vertex_AI_Intro_to_CNN.ipynb
+* Run > Run all cell
 
 
 
