@@ -58,7 +58,7 @@ echo "${RED}${BOLD}With Regards Himadri${RESET}"
 ```
 
 
-### Congratulations 🎉 for completing the Challenge Lab !
+### Congratulations 🎉 for completing the Lab !
 
 ##### *You Have Successfully Demonstrated Your Skills And Determination.*
 
