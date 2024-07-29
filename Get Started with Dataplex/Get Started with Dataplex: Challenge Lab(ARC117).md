@@ -74,8 +74,7 @@ echo "${CYAN}${BOLD}With Regards Himadri${RESET}"
 ## From "Task 3" you can find your ```Field Name```,
 ### ADD A FIELD > Type ```Enumerated``` > Enumerated Values > Values 1 ```Y``` > ADD VALUES + > Values 2 ```N``` > ```CREATE```
 
-## Click ```Search``` From Side Panel > SEARCH ```Raw Event Data``` > Click the first one ```Raw Event Data``` > +Attach Tags > Choose the tag templates > 
-Protected Raw Data Flag ```Y``` > ```SAVE```
+## Click ```Search``` From Side Panel > SEARCH ```Raw Event Data``` > Click the first one ```Raw Event Data``` > +Attach Tags > Choose the tag templates > Protected Raw Data Flag ```Y``` > ```SAVE```
 
 
 # Congratulations 🎉 for completing the Challenge Lab !
