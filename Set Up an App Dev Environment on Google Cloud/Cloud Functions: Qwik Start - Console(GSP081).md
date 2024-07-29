@@ -4,7 +4,7 @@
 
 ### From "Task 1" you can find your Zone,
 ```
-export ZONE=
+export REGION=
 ```
 ```
 BLACK=`tput setaf 0`
