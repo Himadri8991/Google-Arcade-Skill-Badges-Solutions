@@ -1,7 +1,7 @@
 # Dataplex: Qwik Start - Console || [GSP1143](https://www.cloudskillsboost.google/course_templates/726/labs/461568) ||
 
 ### Run the following Commands in CloudShell
-
+### From "Task 1" you can find your REGION,
 ```
 export REGION=
 ```
