@@ -64,14 +64,28 @@ gcloud data-catalog tag-templates create protected_data_template --location=$REG
 
 echo "${CYAN}${BOLD}Click here: "${RESET}""${BLUE}${BOLD}"https://console.cloud.google.com/dataplex/search?project=$DEVSHELL_PROJECT_ID&qSystems=DATAPLEX""${RESET}"
 
-echo "${RED}${BOLD}Congratulations${RESET}" "${WHITE}${BOLD}for${RESET}" "${GREEN}${BOLD}Completing the Lab !!!${RESET}"
-
 echo "${CYAN}${BOLD}With Regards Himadri${RESET}"
 
 #-----------------------------------------------------end----------------------------------------------------------#
 
-
 ```
+# ```Click``` here: (https://console.cloud.google.com/dataplex/search?project=qwiklabs-gcp-00-e3e1a050e3ec)
+### Systems :> *Select* ```DATAPLEX```
+### Click :> ```customer_details``` > ```Attach Tags``` 
+### For Choose what to tag, enable the checkboxes for the following columns:
+* zip
+* state
+* last_name
+* country
+* email
+* latitude
+* first_name
+* city
+* longitude
+### Click ```OK```
+### Choose the tag templates
+### Protected Data Template ```YES```
+### Save
 
 ## Congratulations 🎉 for completing the Challenge Lab !
 
