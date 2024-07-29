@@ -50,6 +50,7 @@ gcloud monitoring uptime create lamp-uptime-check \
   --resource-type="gce-instance" \
   --resource-labels=project_id=$DEVSHELL_PROJECT_ID,instance_id=$INSTANCE_ID,zone=$ZONE
 
+
 cat > email-channel.json <<EOF_END
 {
   "type": "email",
@@ -61,7 +62,11 @@ cat > email-channel.json <<EOF_END
 }
 EOF_END
 
+
 gcloud beta monitoring channels create --channel-content-from-file="email-channel.json"
+
+
+
 
 # Run the gcloud command and store the output in a variable
 channel_info=$(gcloud beta monitoring channels list)
@@ -105,15 +110,15 @@ cat > app-engine-error-percent-policy.json <<EOF_END
 }
 EOF_END
 
+
 gcloud alpha monitoring policies create --policy-from-file="app-engine-error-percent-policy.json"
+
 
 INSTANCE_ID=$(gcloud compute instances describe lamp-1-vm --zone=$ZONE --format='value(id)')
 
 gcloud monitoring uptime create lamp-uptime-check \
   --resource-type="gce-instance" \
   --resource-labels=project_id=$DEVSHELL_PROJECT_ID,instance_id=$INSTANCE_ID,zone=$ZONE
-
-
 echo "${CYAN}${BOLD}With Regards Himadri${RESET}"
 ```
 
