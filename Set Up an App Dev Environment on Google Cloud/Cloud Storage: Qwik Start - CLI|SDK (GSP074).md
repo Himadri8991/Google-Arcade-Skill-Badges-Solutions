@@ -2,7 +2,7 @@
 
 ### Run the following Commands in CloudShell
 
-### From "Task 1. Create a bucket" you can find your Region,
+### From "Setup and Requirements" you can find your Region,
 ```
 export REGION=
 ```
