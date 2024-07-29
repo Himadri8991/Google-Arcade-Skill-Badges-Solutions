@@ -1,7 +1,7 @@
 # Dataplex: Qwik Start - Command Line || [GSP1144](https://www.cloudskillsboost.google/course_templates/726/labs/461569) ||
 
 ### Run the following Commands in CloudShell
-### From "Task 1" you can find your Setup and requirements,
+### From "Setup and requirements" you can find your REGION,
 ```
 export REGION=
 ```
