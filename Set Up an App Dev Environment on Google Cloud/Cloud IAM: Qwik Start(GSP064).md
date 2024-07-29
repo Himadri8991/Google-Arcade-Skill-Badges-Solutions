@@ -2,9 +2,9 @@
 
 ### Run the following Commands in CloudShell
 
-### From "Setup and Requirements" you can find your Region,
+### From "Lab Panel" you can find your USERNAME_2,
 ```
-export REGION=
+export USERNAME_2=
 ```
 ```
 gsutil mb -l us -b on gs://$DEVSHELL_PROJECT_ID
