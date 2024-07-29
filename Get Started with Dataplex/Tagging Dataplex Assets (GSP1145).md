@@ -1,4 +1,4 @@
-# Dataplex: Qwik Start - Console || [GSP1143](https://www.cloudskillsboost.google/course_templates/726/labs/461568) ||
+# Tagging Dataplex Assets || [GSP1145](https://www.cloudskillsboost.google/course_templates/726/labs/461570) ||
 
 ### Run the following Commands in CloudShell
 ### From "Task 1" you can find your REGION,
