@@ -72,7 +72,7 @@ echo "${CYAN}${BOLD}With Regards Himadri${RESET}"
 ### Template display name > Location
 
 ## From "Task 3" you can find your ```Field Name```,
-### ADD A FIELD > Type ```Enumerated``` > Enumerated Values > Values 1 ```Y``` > ADD VALUES > Values 2 ```N``` > ```CREATE```
+### ADD A FIELD > Type ```Enumerated``` > Enumerated Values > Values 1 ```Y``` > ADD VALUES + > Values 2 ```N``` > ```CREATE```
 
 
 # Congratulations 🎉 for completing the Challenge Lab !
