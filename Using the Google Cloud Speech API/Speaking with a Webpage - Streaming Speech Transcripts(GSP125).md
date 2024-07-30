@@ -19,6 +19,7 @@ gcloud compute ssh "speaking-with-a-webpage" --zone "$ZONE" --project "$DEVSHELL
 ```
 
 ### ```Run```
+* After some time, you need to press ```CTRL+C```
 
 ```
 gcloud compute ssh "speaking-with-a-webpage" --zone "$ZONE" --project "$DEVSHELL_PROJECT_ID" --quiet --command "pkill -f 'java.*jetty'"
