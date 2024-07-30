@@ -2,9 +2,9 @@
 
 ### Run the following Commands in CloudShell
 
-### From "Task 1" you can find your BUCKET & REGION,
-### From "Task 2" you can find your TOPIC name,
-### From "Task 3" you can find your FUNCTION name,
+### From "Lab Panel" you can find your ```BUCKET``` name, ```TOPIC``` name, ```FUNCTION``` name,
+### From "Challenge scenario" you can find your REGION,
+### From "Task 1" you can find your Storage Object Viewer = ```BUCKET_USER```,
 ```
 export BUCKET_NAME=
 export TOPIC_NAME=
