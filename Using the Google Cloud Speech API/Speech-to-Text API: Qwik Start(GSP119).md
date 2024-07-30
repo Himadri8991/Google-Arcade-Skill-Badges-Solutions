@@ -2,7 +2,11 @@
 
 ### Run the following Commands in CloudShell
 
-### From "Task 1" you can find your API_KEY,
+## Manual Steps:-
+### To create an API key, click ```Navigation menu``` > ```APIs & services``` > ```Credentials```
+### Then click ```Create credentials```
+### In the drop down menu, select ```API key```
+
 ```
 export API_KEY=
 ```
