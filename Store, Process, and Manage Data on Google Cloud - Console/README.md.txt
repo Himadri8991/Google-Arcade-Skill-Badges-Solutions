@@ -1,0 +1,7 @@
+# Lab Path:- [Store, Process, and Manage Data on Google Cloud - Console](https://www.cloudskillsboost.google/course_templates/658) 
+
+## Give me 2 minutes, and I'll show you a world of Cloud... 
+
+## 'Happiness is just a moment away' 
+
+# Just 3 Minute Solutions..
