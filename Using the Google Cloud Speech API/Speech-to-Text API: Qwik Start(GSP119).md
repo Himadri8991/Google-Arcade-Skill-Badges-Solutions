@@ -6,6 +6,7 @@
 ### To create an API key, click ```Navigation menu``` > ```APIs & services``` > ```Credentials```
 ### Then click ```Create credentials```
 ### In the drop down menu, select ```API key```
+### Copy it
 
 ### Search ```VM instances``` > Connect ```SSH```
 
