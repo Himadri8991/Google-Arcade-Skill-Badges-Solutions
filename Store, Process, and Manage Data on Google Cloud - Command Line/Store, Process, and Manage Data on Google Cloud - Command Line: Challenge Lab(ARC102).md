@@ -2,7 +2,8 @@
 
 ### Run the following Commands in CloudShell
 
-### From "Task 1" you can find your BUCKET & REGION,
+### From "Challenge scenario" you can find your REGION,
+### From "Task 1" you can find your BUCKET,
 ### From "Task 2" you can find your TOPIC name,
 ### From "Task 3" you can find your FUNCTION name,
 ```
