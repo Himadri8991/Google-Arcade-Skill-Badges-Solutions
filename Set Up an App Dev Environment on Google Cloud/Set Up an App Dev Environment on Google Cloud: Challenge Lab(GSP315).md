@@ -1,6 +1,14 @@
 # Set Up an App Dev Environment on Google Cloud: Challenge Lab || [GSP315](https://www.cloudskillsboost.google/course_templates/637/labs/464359) ||
 
+## Open Google Console with USERNAME-1
+
 ### Run the following Commands in CloudShell
+
+### From "Task 1" you can find your Zone,
+### From "Task 2" you can find your TOPIC_NAME,
+### From "Task 3" you can find your FUNCTION_NAME,
+### From "Lab Panel" you can find your USERNAME_2,
+
 ```
 export ZONE=
 
