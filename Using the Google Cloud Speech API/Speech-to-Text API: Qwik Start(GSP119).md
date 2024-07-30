@@ -7,6 +7,9 @@
 ### Then click ```Create credentials```
 ### In the drop down menu, select ```API key```
 
+### Search ```VM instances``` > Connect ```SSH```
+
+## Run the following Commands in *SSH*
 ```
 export API_KEY=
 ```
