@@ -8,6 +8,9 @@
 
 ### Search ```VM instances``` > Connect ```SSH```
 
+### From "Task 2" you can find your ```REQUEST1```, ```RESPONSE1```
+### From "Task 3" you can find your ```REQUEST2```, ```RESPONSE2```
+
 ## Run the following Commands in *SSH*
 ```
 export API_KEY=
