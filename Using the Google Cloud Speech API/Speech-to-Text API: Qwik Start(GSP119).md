@@ -1,7 +1,5 @@
 # Speech-to-Text API: Qwik Start || [GSP119](https://www.cloudskillsboost.google/course_templates/756/labs/475239) ||
 
-### Run the following Commands in CloudShell
-
 ## Manual Steps:-
 ### To create an API key, click ```Navigation menu``` > ```APIs & services``` > ```Credentials```
 ### Then click ```Create credentials```
