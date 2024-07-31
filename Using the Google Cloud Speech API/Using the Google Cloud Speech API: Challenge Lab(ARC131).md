@@ -1,6 +1,6 @@
 # Using the Google Cloud Speech API: Challenge Lab || [ARC131](https://www.cloudskillsboost.google/focuses/65993?parent=catalog) ||
 
-## Manual Steps(https://console.cloud.google.com/apis/credentials):-
+## [Manual Steps](https://console.cloud.google.com/apis/credentials) :-
 ### To create an API key, click ```Navigation menu``` > ```APIs & services``` > ```Credentials```
 ### Then click ```Create credentials```
 ### In the drop down menu, select ```API key```
