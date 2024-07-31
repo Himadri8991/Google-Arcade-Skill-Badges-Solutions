@@ -1,7 +1,7 @@
 # App Engine: Qwik Start - Go || [GSP070](https://www.cloudskillsboost.google/focuses/2754?parent=catalog) ||
 
 ### Run the following Commands in CloudShell
-### From "Task 1" you can find your REGION,
+### From "Setup and requirement" you can find your REGION,
 ```
 export REGION=
 ```
