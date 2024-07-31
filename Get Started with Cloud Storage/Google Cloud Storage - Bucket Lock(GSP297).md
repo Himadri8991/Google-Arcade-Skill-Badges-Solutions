@@ -1,6 +1,7 @@
 # Google Cloud Storage - Bucket Lock || [GSP297](https://www.cloudskillsboost.google/focuses/3483?parent=catalog) ||
 
 ### Run the following Commands in CloudShell
+### Run a Code from your lab ```"Set the region for this lab"```
 
 ```
 BLACK=`tput setaf 0`
@@ -65,6 +66,7 @@ echo "${RED}${BOLD}Congratulations${RESET}" "${WHITE}${BOLD}for${RESET}" "${GREE
 echo "${CYAN}${BOLD}With Regards Himadri${RESET}"
 #-----------------------------------------------------end----------------------------------------------------------#
 ```
+### Press ```Y```
 
 # Congratulations 🎉 for completing the Challenge Lab !
 
