@@ -65,7 +65,7 @@ echo "${RED}${BOLD}Congratulations${RESET}" "${WHITE}${BOLD}for${RESET}" "${GREE
 echo "${CYAN}${BOLD}With Regards Himadri${RESET}"
 #-----------------------------------------------------end----------------------------------------------------------#
 ```
-### Press ```Y```
+### * Press ```Y```
 
 # Congratulations 🎉 for completing the Challenge Lab !
 
