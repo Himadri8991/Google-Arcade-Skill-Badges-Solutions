@@ -1,18 +1,14 @@
 # Using the Google Cloud Speech API: Challenge Lab || [ARC131](https://www.cloudskillsboost.google/focuses/65993?parent=catalog) ||
 
-### Task 1. Create an API key
+## Manual Steps(https://console.cloud.google.com/apis/credentials):-
+### To create an API key, click ```Navigation menu``` > ```APIs & services``` > ```Credentials```
+### Then click ```Create credentials```
+### In the drop down menu, select ```API key```
+### Copy it
 
-1. Go to `Credentials` from [here](https://console.cloud.google.com/apis/credentials)
+### Search ```VM instances``` > Connect ```SSH```
 
-2. Click`+ CREATE CREDENTIALS`
-
-3. Click `API key`
-
-4. Copy generated `API key`
-
-### Run the following Commands in CloudShell
-
-### Assign Veriables
+## Run the following Commands in *SSH*
 ```
 export API_KEY=
 export REQUEST1=
