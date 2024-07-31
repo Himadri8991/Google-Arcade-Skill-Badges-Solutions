@@ -11,7 +11,7 @@
 
 ### Run the following Commands in CloudShell
 
-### Assign Variable
+### From "Task 4" you can find your Zone,
 
 ```
 export ZONE=
