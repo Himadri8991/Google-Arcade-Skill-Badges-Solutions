@@ -349,6 +349,8 @@ echo "${CYAN}${BOLD}Click here: "${RESET}""${BLUE}${BOLD}"https://console.cloud.
 echo "${CYAN}${BOLD}With Regards Himadri${RESET}"
 #-----------------------------------------------------end----------------------------------------------------------#
 ```
+## Click the link that appears below
+### Deploy
 
 # Congratulations 🎉 for completing the Challenge Lab !
 
