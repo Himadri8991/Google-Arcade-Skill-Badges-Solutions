@@ -3,7 +3,7 @@
 
 ### Go to `Audit Logs` from [here](https://console.cloud.google.com/iam-admin/audit?)
 
-### Type or Paste in filter `Compute Engine API` in *Data Access audit logs configuration* Section
+### Type or Paste in filter `Compute Engine API` in *"Data Access audit logs configuration"* Section
 
 ### Check the box next to `Compute Engine API`
 
