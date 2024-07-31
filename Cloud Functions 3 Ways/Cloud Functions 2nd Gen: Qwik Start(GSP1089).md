@@ -282,7 +282,7 @@ gcloud run deploy slow-function \
 
  echo "${YELLOW}${BOLD}NOW${RESET}" "${WHITE}${BOLD}Check The Score${RESET}" "${GREEN}${BOLD}Upto Task 6 then Process Next${RESET}"
 ```
-
+##### It will take upto 10 mins
 ## Now Check The Score Upto `Task 6` then Process Next
 ```
 #!/bin/bash
