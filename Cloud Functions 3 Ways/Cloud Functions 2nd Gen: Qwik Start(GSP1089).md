@@ -7,7 +7,7 @@
 
 ### Check the box next to `Compute Engine API`
 
-### Now Check all `Admin Read` , `Data Read` & `Data Write`
+### Now Check all `Admin Read` , `Data Read` & `Data Write` > Save
 
 ### Run the following Commands in CloudShell
 
