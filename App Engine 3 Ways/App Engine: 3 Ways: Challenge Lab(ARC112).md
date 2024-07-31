@@ -2,6 +2,7 @@
 
 ### Run the following Commands in CloudShell
 
+### From "Task 4" you can find your MESSAGE,
 ```
 export MESSAGE=""
 ```
