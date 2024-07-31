@@ -20,7 +20,6 @@ export RESPONSE1=
 export REQUEST2=
 export RESPONSE2=
 ```
-```
 
 ```
 BLACK=`tput setaf 0`
