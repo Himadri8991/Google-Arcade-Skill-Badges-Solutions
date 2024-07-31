@@ -35,11 +35,11 @@ gsutil mb gs://$DEVSHELL_PROJECT_ID
 
 gsutil mb gs://$DEVSHELL_PROJECT_ID-2
 
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/APIs%20Explorer%20Cloud%20Storage/demo-image1.png
+curl -LO raw.githubusercontent.com/Himadri8991/Google-Arcade-Skill-Badges-Solutions/main/Get%20Started%20with%20Cloud%20Storage/APIs%20Explorer%3A%20Cloud%20Storage/demo-image1.png
 
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/APIs%20Explorer%20Cloud%20Storage/demo-image2.png
+curl -LO raw.githubusercontent.com/Himadri8991/Google-Arcade-Skill-Badges-Solutions/main/Get%20Started%20with%20Cloud%20Storage/APIs%20Explorer%3A%20Cloud%20Storage/demo-image2.png
 
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/APIs%20Explorer%20Cloud%20Storage/demo-image1-copy.png
+curl -LO raw.githubusercontent.com/Himadri8991/Google-Arcade-Skill-Badges-Solutions/main/Get%20Started%20with%20Cloud%20Storage/APIs%20Explorer%3A%20Cloud%20Storage/demo-image1-copy.png
 
 gsutil cp demo-image1.png gs://$DEVSHELL_PROJECT_ID/demo-image1.png
 
