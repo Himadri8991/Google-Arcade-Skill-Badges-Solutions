@@ -283,7 +283,7 @@ gcloud run deploy slow-function \
  echo "${YELLOW}${BOLD}NOW${RESET}" "${WHITE}${BOLD}Check The Score${RESET}" "${GREEN}${BOLD}Upto Task 6 then Process Next${RESET}"
 ```
 
-### Now Check The Score Upto `Task 6` then Process Next
+## Now Check The Score Upto `Task 6` then Process Next
 ```
 #!/bin/bash
 # Define color variables
