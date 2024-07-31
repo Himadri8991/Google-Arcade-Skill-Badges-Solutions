@@ -1,7 +1,6 @@
 # Google Cloud Storage - Bucket Lock || [GSP297](https://www.cloudskillsboost.google/focuses/3483?parent=catalog) ||
 
 ### Run the following Commands in CloudShell
-### Run a Code from your lab ```"Set the region for this lab"``` From *"Setup and requirements"*
 
 ```
 BLACK=`tput setaf 0`
