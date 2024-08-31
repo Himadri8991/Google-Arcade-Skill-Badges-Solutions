@@ -21,5 +21,7 @@
 ## 🎯 Stay Updated:
 ### Watch this repository for new solutions, updates, and resources. Happy learning!
 
+# [Skill Badges list according Number of labs 100%](https://docs.google.com/spreadsheets/d/1kGMeLg3Nyi2Wfdx7QY0488zWxmBTDXAm8rmSlfDt6i8/edit?usp=sharing)
+
 # Follow [ME](www.linkedin.com/in/himadri-das-27487324a) 🚀
 ## Follow My [GitHub Profile](https://github.com/Himadri8991) 🚀
