@@ -46,6 +46,7 @@ echo "${CYAN}${BOLD}With Regards Himadri${RESET}"
 #-----------------------------------------------------end----------------------------------------------------------#
 
 ```
+## Ignore all error
 
 # Congratulations 🎉 for completing the Challenge Lab !
 
