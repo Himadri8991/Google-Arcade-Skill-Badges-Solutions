@@ -2,6 +2,10 @@
 
 ### Run the following Commands in CloudShell
 
+#### Setup and Requirements > Set the region and zone > 3.
+```
+export ZONE=
+```
 ```
 
 BLACK=`tput setaf 0`
