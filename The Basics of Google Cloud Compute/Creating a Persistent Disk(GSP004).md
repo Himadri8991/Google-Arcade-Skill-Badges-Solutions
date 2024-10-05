@@ -4,7 +4,7 @@
 ### Run the following Commands in CloudShell
 
 ### From "Setup and Requirements" you can find your ZONE,
-#### Setup and Requirements > Set the region and zone > 1.
+#### Setup and Requirements > Set the region and zone > 3.
 ```
 export ZONE=
 ```
