@@ -1,7 +1,7 @@
 # API Gateway: Qwik Start || [GSP872](https://www.cloudskillsboost.google/focuses/17996?parent=catalog) ||
 
-### Run the following Commands in CloudShell
-
+## Run the following Commands in CloudShell
+### You can find your Region `Setup and requirements` > `Set the region`
 ```
 export REGION=
 ```
