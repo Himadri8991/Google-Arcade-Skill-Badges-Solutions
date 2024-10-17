@@ -14,7 +14,7 @@
 
 ### In the `Looker navigation menu`, click `Explore` > Under `FAA`, click `Airports` > Under `Airports` > `Dimensions`, click `Facility type` > THEN  Under `Airports` > `Measures`, click `Average elevation` > THEN  Under `Airports` > `Measures`, click `Count` > On the `Data` tab, change Row limit to `5` > Click `Run`.
 
-Click the arrow next to `Visualization` to expand the window > Click the `Bar` icon > Click on the `settings gear icon` (settings gear icon) for Visualization > Click `Values` > Under `Values`, enable `Value labels` > Click `Y` > Under `Y`, click on `Airports` and drag it under `Top Axes` > `Average elevation` will remain under `Bottom Axes` > Under `Configure axes` > `Bottom 1`, enter an Axis name: `Count` > Click on the `gear icon` for Visualization to close the settings.
+### Click the arrow next to `Visualization` to expand the window > Click the `Bar` icon > Click on the `settings gear icon` (settings gear icon) for Visualization > Click `Values` > Under `Values`, enable `Value labels` > Click `Y` > Under `Y`, click on `Airports` and drag it under `Top Axes` > `Average elevation` will remain under `Bottom Axes` > Under `Configure axes` > `Bottom 1`, enter an Axis name: `Count` > Click on the `gear icon` for Visualization to close the settings.
 
 ### `Run` and select `Save` > To an `existing dashboard` > Enter a title for the visualization: `Average elevation by facility type` > Select the dashboard you previously created: `Airports/Flights` > Click `Save to Dashboard`.
 
