@@ -50,7 +50,7 @@ view: users_limited {
   }
   }
 ```
-## Click `Save Changes`
+## Click `Save Changes` 
 
 ***In the file browser, under the `models` folder, select ```training_ecommerce.model``` file.***
 
@@ -124,14 +124,20 @@ explore: events {
 
 ```
 
-## Click `Save Changes`
-
-### Commit Changes and Deploy to Production
-
-1. Click **Validate LookML**.
-2. Click **Commit Changes & Push**.
-3. Add a commit message and click **Commit**.
-4. Lastly, click **Deploy to Production**.
+### Click `Save Changes` >
 
 
-### Now check the score.
+
+### 1. Click **`Validate LookML`**.
+### 2. Click **`Commit Changes & Push`**.
+### 3. Add any commit message and click **`Commit`**.
+### 4. Lastly, click **`Deploy to Production`**.
+
+
+## Now check the score.
+
+# Congratulations 🎉 for completing the Lab !
+
+### *You Have Successfully Demonstrated Your Skills And Determination.*
+
+## *Well done!*
