@@ -1,6 +1,8 @@
 
 # ```Looker Developer - Qwik Start```
 
+### Log in using Credentials
+
 ### First, on the bottom left of the Looker User Interface, click the toggle button to enter Development mode.
 
 
@@ -8,11 +10,9 @@
 
 
 
-***Click the Develop tab and then select the qwiklabs-ecommerce LookML project.***
+***Click the `Develop` tab and then select the `qwiklabs-ecommerce` LookML project.***
 
-***To create the file at the project’s root level, click the + button at the top of the file browser in the Looker IDE.***
-
-***Select Create View. Name the file ***```users_limited```***. Click Create.***
+***Click the 3dots of `Views` > Select `Create View` > Name the file ***```users_limited```*** > Click `Create`***
 
 
 ```
