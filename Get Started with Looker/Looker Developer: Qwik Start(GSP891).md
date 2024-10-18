@@ -50,8 +50,9 @@ view: users_limited {
   }
   }
 ```
+## Click `Save Changes`
 
-***In the file browser, under the models folder, navigate to the ```training_ecommerce.model``` file.***
+***In the file browser, under the `models` folder, select ```training_ecommerce.model``` file.***
 
 ```
 connection: "bigquery_public_data_looker"
@@ -122,6 +123,8 @@ explore: events {
 }
 
 ```
+
+## Click `Save Changes`
 
 ### Commit Changes and Deploy to Production
 
