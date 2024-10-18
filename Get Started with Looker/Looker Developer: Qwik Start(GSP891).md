@@ -3,7 +3,9 @@
 
 ### First, on the bottom left of the Looker User Interface, click the toggle button to enter Development mode.
 
-![Development](development mode.jpg)
+
+![Development](development.jpg)
+
 
 
 ***Click the Develop tab and then select the qwiklabs-ecommerce LookML project.***
